@@ -1,0 +1,110 @@
+id:1002,type:F2,superficie:45.00,quartier:El Mouradia,commune:Alger Centre,distance:1.50
+id:1003,type:F3,superficie:65.00,quartier:Ben Aknoun,commune:Alger Centre,distance:3.00
+id:1004,type:F2,superficie:48.00,quartier:Hydra,commune:Alger Centre,distance:3.00
+id:1006,type:F4,superficie:85.00,quartier:El Biar,commune:Alger Centre,distance:4.00
+id:1007,type:F3,superficie:70.00,quartier:Bouzareah,commune:Alger Centre,distance:5.00
+id:1008,type:F2,superficie:50.00,quartier:El Harrach,commune:El Harrach,distance:8.00
+id:1010,type:F3,superficie:75.00,quartier:Mohammedia,commune:El Harrach,distance:10.00
+id:1011,type:F4,superficie:95.00,quartier:Bordj El Kiffan,commune:Bordj El Kiffan,distance:15.00
+id:1012,type:F2,superficie:55.00,quartier:El Marsa,commune:Bordj El Kiffan,distance:15.00
+id:1014,type:F3,superficie:80.00,quartier:El Kerma,commune:Oran,distance:1.00
+id:1015,type:F2,superficie:60.00,quartier:Sidi El Houari,commune:Oran,distance:1.00
+id:1016,type:F4,superficie:100.00,quartier:Es Senia,commune:Oran,distance:3.00
+id:1018,type:F3,superficie:85.00,quartier:Canastel,commune:Oran,distance:7.00
+id:1019,type:F2,superficie:65.00,quartier:Plateau,commune:Constantine,distance:0.50
+id:1020,type:F4,superficie:110.00,quartier:Cite 8 Mai 1945,commune:Constantine,distance:2.00
+id:1022,type:F3,superficie:90.00,quartier:Ain Smara,commune:Constantine,distance:8.00
+id:1023,type:F2,superficie:70.00,quartier:Zighoud Youcef,commune:Constantine,distance:8.00
+id:1024,type:F4,superficie:120.00,quartier:Emir Abdelkader,commune:Constantine,distance:10.00
+id:1026,type:F3,superficie:95.00,quartier:Ibn Ziad,commune:Constantine,distance:2.00
+id:1027,type:F2,superficie:75.00,quartier:Diar El Mahçoul,commune:Annaba,distance:1.00
+id:1028,type:F4,superficie:125.00,quartier:El Bouni,commune:Annaba,distance:3.00
+id:1030,type:F3,superficie:100.00,quartier:Berrihane,commune:Annaba,distance:5.00
+id:1031,type:F2,superficie:80.00,quartier:Chetaibi,commune:Annaba,distance:7.00
+id:1032,type:F4,superficie:130.00,quartier:Echatt,commune:Annaba,distance:9.00
+id:1034,type:F3,superficie:105.00,quartier:El Hadjar,commune:Annaba,distance:4.00
+id:1035,type:F2,superficie:85.00,quartier:Seraidi,commune:Annaba,distance:6.00
+id:1036,type:F4,superficie:135.00,quartier:Barrahel,commune:Annaba,distance:8.00
+id:1038,type:F3,superficie:110.00,quartier:Bekkaria,commune:Tebessa,distance:4.00
+id:1039,type:F2,superficie:90.00,quartier:Bir El Ater,commune:Tebessa,distance:6.00
+id:1040,type:F4,superficie:140.00,quartier:Cheria,commune:Tebessa,distance:8.00
+id:1042,type:F3,superficie:115.00,quartier:Ferkane,commune:Tebessa,distance:4.00
+id:1043,type:F2,superficie:95.00,quartier:Hammamet,commune:Tebessa,distance:6.00
+id:1044,type:F4,superficie:145.00,quartier:Morsott,commune:Tebessa,distance:8.00
+id:1046,type:F3,superficie:120.00,quartier:Ouenza,commune:Tebessa,distance:4.00
+id:1047,type:F2,superficie:100.00,quartier:Oum Ali,commune:Tebessa,distance:6.00
+id:1048,type:F4,superficie:150.00,quartier:Souk Ahras,commune:Souk Ahras,distance:1.00
+id:1050,type:F3,superficie:125.00,quartier:Zaarouria,commune:Souk Ahras,distance:3.00
+id:1051,type:F2,superficie:105.00,quartier:Drea,commune:Souk Ahras,distance:5.00
+id:1052,type:F4,superficie:155.00,quartier:Heddada,commune:Souk Ahras,distance:7.00
+id:1054,type:F3,superficie:130.00,quartier:Merahna,commune:Souk Ahras,distance:4.00
+id:1055,type:F2,superficie:110.00,quartier:Ouled Driss,commune:Souk Ahras,distance:6.00
+id:1056,type:F4,superficie:160.00,quartier:Ragouba,commune:Souk Ahras,distance:8.00
+id:1058,type:F3,superficie:135.00,quartier:Tiffech,commune:Souk Ahras,distance:4.00
+id:1059,type:F2,superficie:115.00,quartier:Zouabi,commune:Souk Ahras,distance:6.00
+id:1060,type:F4,superficie:165.00,quartier:Ain Beida,commune:Oum El Bouaghi,distance:1.00
+id:1062,type:F3,superficie:140.00,quartier:Ain Diss,commune:Oum El Bouaghi,distance:3.00
+id:1063,type:F2,superficie:120.00,quartier:Ain Fakroun,commune:Oum El Bouaghi,distance:5.00
+id:1064,type:F4,superficie:170.00,quartier:Ain Kercha,commune:Oum El Bouaghi,distance:7.00
+id:1066,type:F3,superficie:145.00,quartier:Behir Chergui,commune:Oum El Bouaghi,distance:4.00
+id:1067,type:F2,superficie:125.00,quartier:Berriche,commune:Oum El Bouaghi,distance:6.00
+id:1070,type:F3,superficie:150.00,quartier:El Djazia,commune:Oum El Bouaghi,distance:4.00
+id:1071,type:F2,superficie:130.00,quartier:El Fedjoudj,commune:Oum El Bouaghi,distance:6.00
+id:1072,type:F4,superficie:180.00,quartier:Hanchir Toumghani,commune:Oum El Bouaghi,distance:8.00
+id:1074,type:F3,superficie:155.00,quartier:Meskiana,commune:Oum El Bouaghi,distance:4.00
+id:1075,type:F2,superficie:135.00,quartier:Ouled Gacem,commune:Oum El Bouaghi,distance:6.00
+id:1076,type:F4,superficie:185.00,quartier:Ouled Hamla,commune:Oum El Bouaghi,distance:8.00
+id:1078,type:F3,superficie:160.00,quartier:Rahia,commune:Oum El Bouaghi,distance:4.00
+id:1079,type:F2,superficie:140.00,quartier:Sigus,commune:Oum El Bouaghi,distance:6.00
+id:1080,type:F4,superficie:190.00,quartier:Souk Naamane,commune:Oum El Bouaghi,distance:8.00
+id:1082,type:F3,superficie:165.00,quartier:Ain El Hadjel,commune:M'Sila,distance:2.00
+id:1083,type:F2,superficie:145.00,quartier:Ain El Melh,commune:M'Sila,distance:4.00
+id:1084,type:F4,superficie:195.00,quartier:Ben Srour,commune:M'Sila,distance:6.00
+id:1086,type:F3,superficie:170.00,quartier:Chellal,commune:M'Sila,distance:4.00
+id:1087,type:F2,superficie:150.00,quartier:Dehahna,commune:M'Sila,distance:6.00
+id:1088,type:F4,superficie:200.00,quartier:Djebel Messaad,commune:M'Sila,distance:8.00
+id:1090,type:F3,superficie:175.00,quartier:El Houamed,commune:M'Sila,distance:4.00
+id:1091,type:F2,superficie:155.00,quartier:Khoubana,commune:M'Sila,distance:6.00
+id:1092,type:F4,superficie:205.00,quartier:Maadid,commune:M'Sila,distance:8.00
+id:1094,type:F3,superficie:180.00,quartier:Medjedel,commune:M'Sila,distance:4.00
+id:1095,type:F2,superficie:160.00,quartier:M'Sila,commune:M'Sila,distance:6.00
+id:1096,type:F4,superficie:210.00,quartier:Ouanougha,commune:M'Sila,distance:8.00
+id:1098,type:F3,superficie:185.00,quartier:Ouled Derradj,commune:M'Sila,distance:4.00
+id:1099,type:F2,superficie:165.00,quartier:Ouled Madhi,commune:M'Sila,distance:6.00
+id:1100,type:F4,superficie:215.00,quartier:Ouled Sidi Brahim,commune:M'Sila,distance:8.00
+id:3236,type:F4,superficie:200.00,quartier:centre ville,commune:constantine,distance:0.50
+id:3,type:F3,superficie:65.00,quartier:Uptown,commune:BlueTown,distance:8.50
+id:23659,type:F3,superficie:150.00,quartier:zwaghi,commune:ccc,distance:12345.00
+id:1068,type:F4,superficie:175.00,quartier:El Amiria,commune:Oum El Bouaghi,distance:8.00
+id:1001,type:STUDIO,superficie:25.00,quartier:Didouche Mourad,commune:Alger Centre,distance:1.50
+id:1005,type:STUDIO,superficie:28.00,quartier:Bab El Oued,commune:Alger Centre,distance:2.00
+id:1009,type:STUDIO,superficie:30.00,quartier:Oued Smar,commune:El Harrach,distance:8.00
+id:1013,type:STUDIO,superficie:35.00,quartier:Ain Taya,commune:Ain Taya,distance:20.00
+id:1017,type:STUDIO,superficie:40.00,quartier:Bir El Djir,commune:Oran,distance:5.00
+id:1021,type:STUDIO,superficie:45.00,quartier:El Khroub,commune:Constantine,distance:5.00
+id:1025,type:STUDIO,superficie:50.00,quartier:Cirta,commune:Constantine,distance:0.50
+id:1029,type:STUDIO,superficie:55.00,quartier:Sidi Amar,commune:Annaba,distance:1.00
+id:1033,type:STUDIO,superficie:60.00,quartier:Oued El Aneb,commune:Annaba,distance:1.00
+id:1037,type:STUDIO,superficie:65.00,quartier:El Kouif,commune:Tebessa,distance:2.00
+id:1041,type:STUDIO,superficie:70.00,quartier:El Aouinet,commune:Tebessa,distance:2.00
+id:1045,type:STUDIO,superficie:75.00,quartier:Negrine,commune:Tebessa,distance:2.00
+id:1049,type:STUDIO,superficie:80.00,quartier:Taoura,commune:Souk Ahras,distance:1.00
+id:1053,type:STUDIO,superficie:85.00,quartier:Khemissa,commune:Souk Ahras,distance:1.00
+id:1057,type:STUDIO,superficie:90.00,quartier:Sedrata,commune:Souk Ahras,distance:1.00
+id:1061,type:STUDIO,superficie:95.00,quartier:Ain Babouche,commune:Oum El Bouaghi,distance:1.00
+id:1065,type:STUDIO,superficie:100.00,quartier:Ain M'lila,commune:Oum El Bouaghi,distance:1.00
+id:1069,type:STUDIO,superficie:105.00,quartier:El Belala,commune:Oum El Bouaghi,distance:1.00
+id:1073,type:STUDIO,superficie:110.00,quartier:Ksar Sbahi,commune:Oum El Bouaghi,distance:1.00
+id:1077,type:STUDIO,superficie:115.00,quartier:Ouled Zouai,commune:Oum El Bouaghi,distance:1.00
+id:1081,type:STUDIO,superficie:120.00,quartier:Zorg,commune:Oum El Bouaghi,distance:1.00
+id:1085,type:STUDIO,superficie:125.00,quartier:Bou Saada,commune:M'Sila,distance:2.00
+id:1089,type:STUDIO,superficie:130.00,quartier:El Hamel,commune:M'Sila,distance:2.00
+id:1093,type:STUDIO,superficie:135.00,quartier:Magra,commune:M'Sila,distance:2.00
+id:1097,type:STUDIO,superficie:140.00,quartier:Ouled Addi Guebala,commune:M'Sila,distance:2.00
+id:9793,type:STUDIO,superficie:35.00,quartier:zwaghi,commune:constantine,distance:0.70
+id:1,type:STUDIO,superficie:25.00,quartier:Downtown,commune:CityCenter,distance:5.00
+id:15511,type:STUDIO,superficie:30.00,quartier:noir,commune:jijel,distance:5.00
+
+id:1954,type:F4,superficie:25.00,quartier:hh,commune:hoho,distance:15.00
+
+id:18606,type:STUDIO,superficie:25.00,quartier:taher,commune:jijel,distance:40.00

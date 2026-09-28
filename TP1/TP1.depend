@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1743463376 source:c:\users\kiki\desktop\c hh\tp1\main.c
+	"LOG_LLC_BIBLIO.h"
+	<stdlib.h>
+	<time.h>
+
+1743464617 c:\users\kiki\desktop\c hh\tp1\log_llc_biblio.h
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1743462846 source:c:\users\kiki\desktop\c hh\tp1\log_llc_biblio.c
+	"LOG_LLC_BIBLIO.h"
+
+1747656116 source:c:\users\dell\desktop\tp1_mehila_tahayacine_bouchaal_hachembadreddine_g07-20250519t120117z-1-001\tp1_mehila_tahayacine_bouchaal_hachembadreddine_g07\tp1\log_llc_biblio.c
+	"LOG_LLC_BIBLIO.h"
+
+1747656116 c:\users\dell\desktop\tp1_mehila_tahayacine_bouchaal_hachembadreddine_g07-20250519t120117z-1-001\tp1_mehila_tahayacine_bouchaal_hachembadreddine_g07\tp1\log_llc_biblio.h
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<time.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1747656116 source:c:\users\dell\desktop\tp1_mehila_tahayacine_bouchaal_hachembadreddine_g07-20250519t120117z-1-001\tp1_mehila_tahayacine_bouchaal_hachembadreddine_g07\tp1\main.c
+	"LOG_LLC_BIBLIO.h"
+	<stdlib.h>
+	<time.h>
+
