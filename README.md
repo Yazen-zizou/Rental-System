@@ -2,7 +2,7 @@
 
 A console application written in **C** to manage a rental housing system: tenants (*locataires*), housing units (*logements*) and rental contracts (*locations*). All data is stored in plain text files and handled in memory with **linked lists**.
 
-> Academic project (TP1) — Windows only (uses `windows.h`, `system("cls")` and `Sleep`).
+> Academic project (university lab, TP1) — Windows only (uses `windows.h`, `system("cls")` and `Sleep`).
 
 ## Features
 
@@ -32,7 +32,7 @@ Each unit type has a base rent and an average surface area. Every square metre a
 ```
 Rental-System/
 ├── README.md
-└── TP1/
+└── src/
     ├── main.c                # entry point, main loop and menus
     ├── LOG_LLC_BIBLIO.h      # structures and function declarations
     ├── LOG_LLC_BIBLIO.c      # all the logic (lists, files, sorting, stats)
@@ -52,21 +52,21 @@ Archiving also creates `Archive_Locataire.txt` and `Archive_Logement.txt` on fir
 
 ## Compile and run
 
-The program reads and writes its `.txt` files in the **current directory**, so always run it from inside the `TP1` folder.
+The program reads and writes its `.txt` files in the **current directory**, so always run it from inside the `src` folder.
 
 ### With GCC (command line)
 
 ```bash
-cd TP1
+cd src
 gcc -Wall main.c LOG_LLC_BIBLIO.c -o rental.exe -lm
 .\rental.exe
 ```
 
 ### With Code::Blocks
 
-1. Open `TP1/TP1.cbp`.
+1. Open `src/TP1.cbp`.
 2. Press **Build and run** (`F9`).
-3. If the data files are not found, set the working directory to the `TP1` folder in *Project → Properties → Build targets*.
+3. If the data files are not found, set the working directory to the `src` folder in *Project → Properties → Build targets*.
 
 > It cannot be compiled on Linux or macOS as is, because of `windows.h`, `system("cls")` and `Sleep()`.
 
